@@ -1,4 +1,4 @@
-# github-final-project
+# Github-final-project
 This is my final project for IBM GitHub course on Coursera
 
 # Project Details
